@@ -1,9 +1,5 @@
 'use strict';
 
-// MANIPULANDO EL DOMINIO. Usamos document.querySelector que es un method del object document y seleccionamos la clase que queremos modificar. A continuación escribimos el nuevo mensaje
-
-// -----------------------------------------
-
 // Obtenemos un numero random con el methodo "Math.random", luego lo pasamos a número entero, removiendo decimales con Math.trunc y finalmente agregamos + 1 para redeondear y que 20 sea una posibilidad
 
 // Lo guardamos en una variable y finalmente reemplazamos el elemento del dominio por ese numero aleatorio
